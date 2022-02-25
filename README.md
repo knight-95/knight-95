@@ -2,7 +2,7 @@
 <h3 align="center">Sophomore | Open-source Enthusiast</h3><br>
 
 <p align ="center">
-<img src="https://github.com/knight-95/knight-95/blob/main/KnightForever.gif" width="200" height="200" />
+<img src="https://github.com/knight-95/knight-95/blob/main/KnightForever.gif" width="200" height="200" border-radius:100%/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knight-95&label=Profile%20views&color=0e75b6&style=flat" alt="knight-95" /> </p>
