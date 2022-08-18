@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">An IT undergrad at IET-DAVV | MERN | Blockchain | Open-Source Contributor from India</h3>
 
-<br><br>
-
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=knight-95&label=Profile%20views&color=0e75b6&style=flat" alt="knight-95" /> </p>
 <img align="right" alt="Coding" width="400" src="https://utkuhalis.com.tr/img/cover/home-right.gif">
 
 - 🔭  I’m currently working on **some cool development Projects**
