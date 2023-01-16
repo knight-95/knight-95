@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="62" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="62" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="62" alt="cplusplus logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/solidity/solidity-plain.svg" height="50" width="62" alt="Solidity logo"  />
+  <img src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" height="50" width="62" alt="Solidity logo"  />
 </div>
 
 ###
