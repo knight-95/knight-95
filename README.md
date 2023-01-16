@@ -31,7 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="62" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="62" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="62" alt="bootstrap logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="62" alt="tailwindcss logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" height="50" width="62" alt="tailwindcss logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" height="50" width="62" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="62" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="62" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="62" alt="react logo"  />
@@ -81,7 +82,8 @@
 
 ###
 
-<img align="right" height="200" width="200" src="https://github.com/knight-95/knight-95/blob/main/KnightForever.gif"  />
+<!-- <img align="right" height="200" width="200" src="https://github.com/knight-95/knight-95/blob/main/KnightForever.gif"  /> -->
+<img align="right" height="200" width="200" src="https://twitter.com/i/status/1614887749747896321"  />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knight-95&" alt="knight-95" />
 
