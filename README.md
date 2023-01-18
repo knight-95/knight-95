@@ -83,7 +83,7 @@
 ###
 
 <!-- <img align="right" height="200" width="200" src="https://github.com/knight-95/knight-95/blob/main/KnightForever.gif"  /> -->
-<img align="right" height="200" width="200" src="https://twitter.com/i/status/1614887749747896321"  />
+<img align="right" height="200" width="200" src="https://giphy.com/gifs/gun-army-warrior-bU9vf2XWgh7H4fR06D"  />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knight-95&" alt="knight-95" />
 
