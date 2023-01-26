@@ -9,7 +9,7 @@
 
 - 🌱  I’m currently learning **Blockchain Development**
 
-- 🙋🏻‍♂️  I’m looking to collaborate on **Open Source Projects, DSA Practicing**
+- 🙋🏻‍♂️  I’m looking to collaborate on **Open Source Projects, DSA Practicing, Participating in Hackathons**
 
 - 🤝  I’m looking for help with **Smart Contracts**
 
