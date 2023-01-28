@@ -78,6 +78,8 @@
 
 
 ![snake gif](https://github.com/knight-95/knight-95/blob/output/github-contribution-grid-snake.gif)
+[![An image of @knight95's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/knight95)](https://holopin.io/@knight95)
+
 
 
 ###
