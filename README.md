@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knight-95&label=Profile%20views&color=0e75b6&style=flat" alt="knight-95" /> </p>
 <img align="right" alt="Coding" width="400" src="https://utkuhalis.com.tr/img/cover/home-right.gif">
 
+- 🏆  Winner of **Ethereum + Polygon Track** at Vashisht 2023
 - 🔭  I’m currently working on **some cool development Projects**
 
 - 🌱  I’m currently learning **Blockchain Development**
