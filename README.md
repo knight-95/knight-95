@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">An IT undergrad at IET-DAVV | MERN | Blockchain | Open-Source Contributor from India</h3>
+<h3 align="center">An IT undergrad at IET-DAVV | Full Stack Developer | Blockchain | Open-Source Contributor from India</h3>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knight-95&label=Profile%20views&color=0e75b6&style=flat" alt="knight-95" /> </p>
 <img align="right" alt="Coding" width="400" src="https://utkuhalis.com.tr/img/cover/home-right.gif">
 
+- 👨‍💻  Live deployed work at <a href="https://macha.ai/" target="_blank">macha.ai</a> and <a href="https://app.macha.ai/" target="_blank">app.macha.ai</a>
 - 🏆  Winner of **Ethereum + Polygon Track** at Vashisht 2023
 - 🔭  I’m currently working on **some cool development Projects**
 
@@ -14,7 +15,7 @@
 
 - 🤝  I’m looking for help with **Smart Contracts**
 
-- 👨‍💻  All of my projects are available at <a href="https://raw-portfolio.netlify.app/" target="_blank">Portfolio</a>
+- 👨‍💻  All of my projects are available at <a href="https://yashugupta.netlify.app/" target="_blank">Portfolio</a>
 <!-- - 👨‍💻  All of my projects are available at [https://raw-portfolio.netlify.app/](https://raw-portfolio.netlify.app/) -->
 
 - 💬  Ask me about **React, Solidity, Web Dev**
