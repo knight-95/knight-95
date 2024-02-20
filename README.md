@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="62" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="62" alt="bootstrap logo"  />
   <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" height="50" width="62" alt="tailwindcss logo"  />
-  <img src="https://www.coffeeclass.io/logos/chakra-ui.png" height="50" width="62" alt="Chakra UI Logo"/>
+  <img src="https://www.coffeeclass.io/logos/chakra-ui.png" height="50" width="52" alt="Chakra UI Logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" height="50" width="62" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="62" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="62" alt="express logo"  />
@@ -44,7 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="62" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="62" alt="cplusplus logo"  />
   <img src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" height="50" width="72" alt="Solidity logo"  />
-  <img src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png" height="60" width="62" alt="Angular logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" height="50" width="60" alt="Next JS"/>
+  <img src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png" height="50" width="62" alt="Angular logo"  />
   <img src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023072200/1689984300042/Microsoft.VisualStudio.Services.Icons.Default" height="55" width="62" alt="Spring Boot logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="50" width="62" alt="Angular logo"  />
    <img src="https://static-00.iconduck.com/assets.00/hibernate-icon-1965x2048-cl94vxbt.png" height="50" width="62" alt="Hibernate logo"  />
