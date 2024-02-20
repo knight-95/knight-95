@@ -42,7 +42,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="62" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="62" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="62" alt="cplusplus logo"  />
-  <img src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" height="50" width="62" alt="Solidity logo"  />
+  <img src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" height="50" width="72" alt="Solidity logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png" height="60" width="62" alt="Angular logo"  />
+  <img src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023072200/1689984300042/Microsoft.VisualStudio.Services.Icons.Default" height="55" width="62" alt="Spring Boot logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="50" width="62" alt="Angular logo"  />
+   <img src="https://static-00.iconduck.com/assets.00/hibernate-icon-1965x2048-cl94vxbt.png" height="50" width="62" alt="Hibernate logo"  />
 </div>
 
 ###
