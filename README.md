@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knight-95&label=Profile%20views&color=0e75b6&style=flat" alt="knight-95" /> </p>
 <img align="right" alt="Coding" width="400" src="https://utkuhalis.com.tr/img/cover/home-right.gif">
 
-- 👨‍💻  Live deployed work at <a href="https://macha.ai/" target="_blank">macha.ai</a> and <a href="https://app.macha.ai/" target="_blank">app.macha.ai</a>
+- 👨‍💻  Software Engineer at **Nomura Resaearch Institute FT**
 - 🏆  Winner of **Ethereum + Polygon Track** at Vashisht 2023
 - 🔭  I’m currently working on **some cool development Projects**
 
