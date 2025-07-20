@@ -7,9 +7,9 @@
 
 - 👨‍💻  Software Engineer at **Nomura Research Institute FT**
 - 🏆  Winner of **Ethereum + Polygon Track** at Vashisht 2023
-- 🔭  I’m currently working on **some cool development Projects**
+- 🔭  I’m currently working on **FinTech Projects**
 
-- 🌱  I’m currently learning **Blockchain Development**
+- 🌱  I’m currently learning **AI/ML**
 
 - 🙋🏻‍♂️  I’m looking to collaborate on **Open Source Projects, DSA Practicing, Participating in Hackathons**
 
@@ -20,7 +20,7 @@
 
 - 💬  Ask me about **React, Solidity, Web Dev**
 
-- 📫  How to reach me **20bit069@ietdavv.edu.in**
+- 📫  How to reach me **yashgupta013.in@gmail.com**
 
 
 
